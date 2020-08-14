@@ -1,0 +1,12 @@
+{
+    "info": {
+        "name": "Ashlesh Pandey",
+        "age": 21,
+        "isGood": true,
+        "attendance": [
+            {
+                "name": "Ashlesh Pandey"
+            }
+        ]
+    }
+}
